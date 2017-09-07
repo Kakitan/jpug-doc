@@ -2821,12 +2821,12 @@ if (!triggered)
    <para>
 <!--
     In normal operation, <quote>read-only</> transactions are allowed to
-    update sequences and to use <command>LISTEN</>, <command>UNLISTEN</>, and
+    use <command>LISTEN</>, <command>UNLISTEN</>, and
     <command>NOTIFY</>, so Hot Standby sessions operate under slightly tighter
     restrictions than ordinary read-only sessions.  It is possible that some
     of these restrictions might be loosened in a future release.
 -->
-通常の操作では、<quote>読み取り専用</>トランザクションにはシーケンスの更新および<command>LISTEN</>と<command>UNLISTEN</>と<command>NOTIFY</>の使用が許可されています。
+通常の操作では、<quote>読み取り専用</>トランザクションには<command>LISTEN</>と<command>UNLISTEN</>と<command>NOTIFY</>の使用が許可されています。
 ホットスタンバイセッションの操作では、通常の読み取り専用セッションよりも少し厳しい制約を受けます。
 将来のリリースではこの制約の一部が緩和されるかもしれません。
    </para>

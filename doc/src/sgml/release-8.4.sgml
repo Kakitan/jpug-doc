@@ -7,13 +7,13 @@
 -->
   <title>リリース8.4.22</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2014-07-24</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2014-07-24</para>
+  </formalpara>
 
   <para>
 <!--
@@ -489,13 +489,13 @@ OS Xで<application>libpython</>のリンクを修正しました。(Tom Lane)
 -->
   <title>リリース8.4.21</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2014-03-20</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2014-03-20</para>
+  </formalpara>
 
   <para>
 <!--
@@ -673,13 +673,13 @@ GINメタページのアクティブな部分は標準的なディスクセク�
 -->
   <title>リリース8.4.20</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2014-02-20</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2014-02-20</para>
+  </formalpara>
 
   <para>
 <!--
@@ -1368,13 +1368,13 @@ MSVCビルドに於いて、このコピーは長らく行われてきました�
 -->
   <title>リリース8.4.19</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2013-12-05</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2013-12-05</para>
+  </formalpara>
 
   <para>
 <!--
@@ -1674,13 +1674,13 @@ Windowsエラーコード変換のログ取得時に発生する可能性があ�
 -->
   <title>リリース8.4.18</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2013-10-10</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2013-10-10</para>
+  </formalpara>
 
   <para>
 <!--
@@ -1971,13 +1971,13 @@ C99標準では、<literal>inf</>、<literal>+inf</>、 <literal>-inf</>、 <lit
 -->
   <title>リリース8.4.17</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2013-04-04</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2013-04-04</para>
+  </formalpara>
 
   <para>
 <!--
@@ -2315,13 +2315,13 @@ PL/Perlの<function>spi_prepare()</>関数のメモリリークを修正しま�
 -->
   <title>リリース8.4.16</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2013-02-07</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2013-02-07</para>
+  </formalpara>
 
   <para>
 <!--
@@ -2630,13 +2630,13 @@ Windows用にクロスコンパイルしたときに、<application>pgxs</>が�
 -->
   <title>リリース8.4.15</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2012-12-06</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2012-12-06</para>
+  </formalpara>
 
   <para>
 <!--
@@ -3082,13 +3082,13 @@ AIX上でのロード可能モジュールのビルドについて<application>p
 -->
   <title>リリース8.4.14</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2012-09-24</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2012-09-24</para>
+  </formalpara>
 
   <para>
 <!--
@@ -3260,13 +3260,13 @@ PL/Perlで正しく最適化されない場合があるのを回避しました�
 -->
   <title>リリース8.4.13</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2012-08-17</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2012-08-17</para>
+  </formalpara>
 
   <para>
 <!--
@@ -3612,13 +3612,13 @@ CVE-2012-3489に対する修正のためこの能力が壊れましたが、そ�
 -->
   <title>リリース8.4.12</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2012-06-04</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2012-06-04</para>
+  </formalpara>
 
   <para>
 <!--
@@ -4038,13 +4038,13 @@ PL/pgSQLの<command>RETURN NEXT</>コマンドにおけるメモリリークを�
 -->
   <title>リリース8.4.11</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2012-02-27</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2012-02-27</para>
+  </formalpara>
 
   <para>
 <!--
@@ -4581,13 +4581,13 @@ configureスクリプトはこれまで、この組み合わせは動作しな�
 -->
   <title>リリース8.4.10</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2011-12-05</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2011-12-05</para>
+  </formalpara>
 
   <para>
 <!--
@@ -5056,13 +5056,13 @@ VPATH構築ですべてのサーバヘッダファイルが適切にインスト
 -->
   <title>リリース8.4.9</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2011-09-26</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2011-09-26</para>
+  </formalpara>
 
   <para>
 <!--
@@ -5841,13 +5841,13 @@ perl 5.14を用いたビルドを可能にしました。(Alex Hunsaker)
 -->
   <title>リリース8.4.8</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2011-04-18</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2011-04-18</para>
+  </formalpara>
 
   <para>
 <!--
@@ -6209,13 +6209,13 @@ Cygwinにおいて<application>pg_regress</>で使用されるパス区切り文
 -->
   <title>リリース8.4.7</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2011-01-31</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2011-01-31</para>
+  </formalpara>
 
   <para>
 <!--
@@ -6395,7 +6395,7 @@ Cygwinにおいて<application>pg_regress</>で使用されるパス区切り文
 これにより、<type>seg</>列上のGiSTインデックスにおいて実際に不正な結果になることはありませんが、非常に非効率的な結果になることがあり得ました。
 こうしたインデックスがある場合、この更新版をインストールした後に<command>REINDEX</>処理を行うことを検討してください。
 （これは過去の更新の<filename>contrib/cube</>で修正された不具合と同じです。）
-    </para>
+     </para>
     </listitem>
 
    </itemizedlist>
@@ -6409,13 +6409,13 @@ Cygwinにおいて<application>pg_regress</>で使用されるパス区切り文
 -->
   <title>リリース8.4.6</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2010-12-16</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2010-12-16</para>
+  </formalpara>
 
   <para>
 <!--
@@ -6876,13 +6876,13 @@ GSSAPIサポート付きでコンパイルされたpostmasterで、接続受け�
 -->
   <title>リリース8.4.5</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2010-10-04</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2010-10-04</para>
+  </formalpara>
 
   <para>
 <!--
@@ -7658,13 +7658,13 @@ Asia/Novosibirskはこの新しい振舞いにより合致しています。
 -->
   <title>リリース8.4.4</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2010-05-17</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2010-05-17</para>
+  </formalpara>
 
   <para>
 <!--
@@ -8091,13 +8091,13 @@ Windowsにおいて既知の時間帯名称の集合を更新しました。(Mag
 -->
   <title>リリース8.4.3</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2010-03-15</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2010-03-15</para>
+  </formalpara>
 
   <para>
 <!--
@@ -8782,13 +8782,13 @@ Cコンパイラが64ビット整数データ型の動作を提供しない場�
 -->
   <title>リリース8.4.2</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2009-12-14</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2009-12-14</para>
+  </formalpara>
 
   <para>
 <!--
@@ -9574,13 +9574,13 @@ WindowsではUnixのようなシグナルを持ちませんので、これはま
 -->
   <title>リリース8.4.1</title>
 
-  <note>
+  <formalpara>
 <!--
-  <title>Release Date</title>
+  <title>Release date:</title>
 -->
-  <title>リリース日</title>
-  <simpara>2009-09-09</simpara>
-  </note>
+  <title>リリース日:</title>
+  <para>2009-09-09</para>
+  </formalpara>
 
   <para>
 <!--
@@ -10026,13 +10026,13 @@ readlineとeditlineライブラリの両方がインストールされている�
 -->
   <title>リリース8.4</title>
 
-  <note>
+  <formalpara>
 <!--
-   <title>Release Date</title>
+   <title>Release date:</title>
 -->
-   <title>リリース日</title>
-   <simpara>2009-07-01</simpara>
-  </note>
+   <title>リリース日:</title>
+   <para>2009-07-01</para>
+  </formalpara>
 
   <sect2>
 <!--

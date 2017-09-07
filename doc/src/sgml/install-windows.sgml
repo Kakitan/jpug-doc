@@ -272,14 +272,15 @@ SDKの<application>Windows Headers and Libraries</application>を常にインク
       ActiveState Perl is required to run the build generation scripts. MinGW
       or Cygwin Perl will not work. It must also be present in the PATH.
       Binaries can be downloaded from
-      <ulink url="http://www.activestate.com"></> (Note: version 5.8 or later is required,
+      <ulink url="http://www.activestate.com"></>
+      (Note: version 5.8.3 or later is required,
       the free Standard Distribution is sufficient).
 -->
 ActiveState Perlが構築生成スクリプトを実行するために必要です。
 MinGWまたはCygwinのPerlでは動作しません。
 また、PATH内に含められていなければなりません。
 <ulink url="http://www.activestate.com"></>からバイナリをダウンロードできます
-（注意：バージョン5.8以降が必要です。フリー版の標準配布で十分です）。
+（注意：バージョン5.8.3以降が必要です。フリー版の標準配布で十分です）。
      </para></listitem>
     </varlistentry>
 

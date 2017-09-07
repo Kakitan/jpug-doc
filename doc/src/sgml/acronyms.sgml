@@ -410,11 +410,11 @@
      <para>
 <!--
       <ulink
-      url="http://git.postgresql.org/gitweb?p=postgresql.git;a=blob;f=src/backend/access/heap/README.HOT;hb=HEAD">Heap-Only
+      url="https://git.postgresql.org/gitweb?p=postgresql.git;a=blob;f=src/backend/access/heap/README.HOT;hb=HEAD">Heap-Only
       Tuples</ulink>
 -->
       <ulink
-      url="http://git.postgresql.org/gitweb?p=postgresql.git;a=blob;f=src/backend/access/heap/README.HOT;hb=HEAD">Heap-Only
+      url="https://git.postgresql.org/gitweb?p=postgresql.git;a=blob;f=src/backend/access/heap/README.HOT;hb=HEAD">Heap-Only
       Tuples（ヒープ専用タプル）</ulink>
      </para>
     </listitem>
@@ -741,7 +741,7 @@
     <term><acronym>SPI</acronym></term>
     <listitem>
      <para>
-      <link linkend="spi">Server Programming Interface</link>
+      <link linkend="spi">Server Programming Interface（サーバプログラミングインタフェース）</link>
      </para>
     </listitem>
    </varlistentry>
@@ -774,7 +774,7 @@
     <term><acronym>SRF</acronym></term>
     <listitem>
      <para>
-      <link linkend="xfunc-c-return-set">Set-Returning Function</link>
+      <link linkend="xfunc-c-return-set">Set-Returning Function（集合を返す関数）</link>
      </para>
     </listitem>
    </varlistentry>
